@@ -26,6 +26,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
+    https://github.com/kushallj/infinite-scrolling.git
 
 Navigate to the project directory:
 cd infinite-scroll-example
